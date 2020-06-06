@@ -1,4 +1,4 @@
-package org.nbk.abstraction.demo;
+package org.nbk.abstraction.accesories;
 
 public interface PhoneAccesories {
     

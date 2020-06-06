@@ -1,4 +1,7 @@
-package org.nbk.abstraction.demo;
+package org.nbk.abstraction.device.mobile;
+
+import org.nbk.abstraction.accesories.PhoneAccesories;
+import org.nbk.abstraction.device.Phone;
 
 public class Samsung extends Phone implements PhoneAccesories {
 

@@ -1,4 +1,4 @@
-package org.nbk.abstraction.demo;
+package org.nbk.abstraction.category;
 
 public interface Electronics {
     
