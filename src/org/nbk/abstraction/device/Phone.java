@@ -14,5 +14,9 @@ public abstract class Phone implements Electronics {
     }
 
     public abstract void insertSIM();
+    
+    public void registerSIM() {
+	System.out.println("Register SIM");
+    }
 
 }

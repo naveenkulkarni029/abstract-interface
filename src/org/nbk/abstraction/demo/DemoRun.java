@@ -10,7 +10,6 @@ public class DemoRun {
 	samsung.display();
 	samsung.insertSIM();
 	samsung.externalMemory();
-
     }
 
 }
